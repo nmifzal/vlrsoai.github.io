@@ -1,4 +1,4 @@
-name: Chennai School of AI
+name: Vellore School of AI
 description: Our mission is to solve humanity's challenging problems using AI.
 avatar: /images/logo.png
 
@@ -23,7 +23,7 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
 google_analytics: UA-93019594-2
-url: https://chnsoai.github.io/
+url: https://vlrsoai.github.io/
 baseurl: ""
 permalink: /:title/
 
