@@ -1,2 +1,2 @@
-# chnsoai.github.io
-Official website of Chennai School of AI
+# vlrsoai.github.io
+Official website of Vellore School of AI
